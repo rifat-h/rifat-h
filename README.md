@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD. Rifat Hossain</h1>
 <h3 align="center">A passionate web developer from Dhaka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-h&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-h" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-h&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-h" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat-h" alt="rifat-h" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rifat_hossain21" target="blank"><img src="https://img.shields.io/twitter/follow/rifat_hossain21?logo=twitter&style=for-the-badge" alt="rifat_hossain21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rifat_hossain21" target="blank"><img src="https://img.shields.io/twitter/follow/rifat_hossain21?logo=twitter&style=for-the-badge" alt="rifat_hossain21" /></a> </p> -->
 
 - 🌱 I’m currently learning **Livewire**
 
