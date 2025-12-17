@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Livewire**
 
-- 👨‍💻 All of my projects are available at [rhossain.dev](rhossain.dev)
+- 👨‍💻 Some of my projects are available at [rhossain.dev](rhossain.dev)
 
 - 📫 How to reach me **rifat.h@hotmail.com**
 
