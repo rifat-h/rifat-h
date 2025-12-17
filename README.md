@@ -18,7 +18,7 @@
 <a href="https://twitter.com/rifat_hossain21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifat_hossain21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rifat-h-92190491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat-h-92190491" height="30" width="40" /></a>
 <a href="https://fb.com/m.rifath.hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.rifath.hossain" height="30" width="40" /></a>
-<a href="https://rhossain.dev" target="blank"><img align="center" src="[https://w7.pngwing.com/pngs/549/715/png-transparent-web-development-logo-website-web-design-symmetry-internet.png](https://www.clipartmax.com/png/middle/469-4691998_world-wide-web-free-icons-transparent-background-website-logo.png)" alt="rhossain.dev" height="30" width="40" /></a>
+<a href="https://rhossain.dev" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/469-4691998_world-wide-web-free-icons-transparent-background-website-logo.png" alt="rhossain.dev" height="30" width="40" /></a>
   
 </p>
 
