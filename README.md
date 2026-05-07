@@ -45,7 +45,7 @@
 </p>
 
 <p align="left">
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-h&" alt="rifat-h" />
+  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-h&" alt="rifat-h" />
 </p>
