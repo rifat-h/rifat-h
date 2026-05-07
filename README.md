@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rifat_hossain21" target="blank"><img src="https://img.shields.io/twitter/follow/rifat_hossain21?logo=twitter&style=for-the-badge" alt="rifat_hossain21" /></a> </p>
 
-- 🌱 I’m currently learning **Livewire**
+- 🌱 I’m currently learning **Inertia JS**
 
 - 👨‍💻 Some of my projects are available at [rhossain.dev](rhossain.dev)
 
@@ -29,17 +29,19 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3.org/html/"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://jquery.com/"><img height="27" src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="jquery" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com/"><img height="27" src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linux.org/"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.php.net"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com/"><img height="27" src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://livewire.laravel.com/"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" alt="laravel" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://postman.com"><img height="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://redis.io"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://sass-lang.com"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://svelte.dev"><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.typescriptlang.org/"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://webpack.js.org"><img height="27" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/voxels-4478552-3709528.png" alt="webpack" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://vite.dev"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-plain.svg" alt="webpack" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
 </p>
 
 <p align="left">
