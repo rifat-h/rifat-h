@@ -14,11 +14,11 @@
 - 📫 How to reach me **rifat.h@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <span><a href="https://rhossain.dev" target="blank"><img src="https://www.svgrepo.com/show/447845/website-click.svg" alt="rhossain.dev" height="30" width="40" /></a></span>
-  <span><a href="https://twitter.com/rifat_hossain21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifat_hossain21" height="30" width="40" /></a></span>
-  <span><a href="https://linkedin.com/in/rifat-h-92190491" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat-h-92190491" height="30" width="40" /></a></span>
-  <span><a href="https://fb.com/m.rifath.hossain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.rifath.hossain" height="30" width="40" /></a></span>
+<p dir="auto">
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://rhossain.dev"><img height="27" src="https://www.svgrepo.com/show/447845/website-click.svg" alt="rhossain.dev" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://twitter.com/rifat_hossain21"><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifat_hossain21" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/rifat-h-92190491"><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat-h-92190491" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://fb.com/m.rifath.hossain"><img height="27" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.rifath.hossain" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,7 +43,7 @@
 </p>
 
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-h&show_icons=true&locale=en&layout=compact" alt="rifat-h" />
-	<img src="https://github-readme-stats.vercel.app/api?username=rifat-h&show_icons=true&locale=en" alt="rifat-h" />
+	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-h&show_icons=true&locale=en&layout=compact" alt="rifat-h" /> -->
+	<!-- <img src="https://github-readme-stats.vercel.app/api?username=rifat-h&show_icons=true&locale=en" alt="rifat-h" /> -->
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-h&" alt="rifat-h" />
 </p>
