@@ -47,5 +47,9 @@
 <p align="left">
 	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-h&show_icons=true&locale=en&layout=compact" alt="rifat-h" /> -->
 	<!-- <img src="https://github-readme-stats.vercel.app/api?username=rifat-h&show_icons=true&locale=en" alt="rifat-h" /> -->
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-h&" alt="rifat-h" />
+	<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-h&" alt="rifat-h" /> -->
+
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </p>
