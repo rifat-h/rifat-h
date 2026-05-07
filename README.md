@@ -40,7 +40,7 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://redis.io"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://postman.com"><img height="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://webpack.js.org"><img height="27" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/voxels-4478552-3709528.png" alt="webpack" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://vite.dev"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-plain.svg" alt="webpack" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://vite.dev"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="webpack" style="max-width: 100%; height: auto; max-height: 27px;"></a></code>
 </p>
 
 <p align="left">
